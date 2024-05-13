@@ -1,0 +1,11 @@
+# a simple example
+# recipient initiator times
+B A 1
+C A 4
+A B 1
+B C 3
+A C 1
+D C 1
+C D 1
+E D 1
+D E 1
